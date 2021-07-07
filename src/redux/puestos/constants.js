@@ -1,0 +1,12 @@
+/** List of Puestos */
+export const GET_PUESTOS_LIST_REQUEST = 'GET_PUESTOS_LIST_REQUEST';
+export const GET_PUESTOS_LIST_SUCCESS = 'GET_PUESTOS_LIST_SUCCESS';
+
+/** Puestos form */
+export const SET_PUESTO_REQUEST = 'SET_PUESTO_REQUEST';
+export const SET_PUESTO_SUCCESS = 'SET_PUESTO_SUCCESS';
+export const GET_PUESTOS_MODAL = 'GET_PUESTOS_MODAL';
+export const HIDE_PUESTOS_MODAL = 'HIDE_PUESTOS_MODAL';
+
+/** Error */
+export const GET_PUESTOS_ERROR = 'GET_PUESTOS_ERROR';
